@@ -4,5 +4,6 @@
     <string name="app_name">GithubTesting</string>
     <string name="hello_octocat">Hello octocat!</string>
     <string name="action_settings">Settings</string>
+    <string name="no_octocat">There is no octocat here.</string>
 
 </resources>
